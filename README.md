@@ -1,7 +1,10 @@
 # Obsidian Auto-`\displaystyle` Inline Math
 
 This is an [Obsidian.md](https://obsidian.md) plugin to automatically make all inline maths `\displaystyle`.
-After enabling it, you will need re-open notes or reload the app to see the effect. That's it!
+
+It also offers the **Enable**/**Disable** commands to quickly toggle `\displaystyle` with your custom hotkey via command palette.
+
+That's it!
 
 ## Installation
 

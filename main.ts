@@ -2,11 +2,12 @@ import { MarkdownView, Plugin, loadMathJax } from 'obsidian';
 import { around } from 'monkey-around';
 
 export default class MyPlugin extends Plugin {
-	uninstaller: Function | null;
+	uninstaller: (() => void) | null;
 
 	async onload() {
 		await loadMathJax();
 		this.install();
+		this.rerender();
 
 		this.addCommand({
 			id: 'enable',

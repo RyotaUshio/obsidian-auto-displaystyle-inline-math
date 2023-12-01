@@ -2,7 +2,7 @@
 
 This is an [Obsidian.md](https://obsidian.md) plugin to automatically make all inline maths `\displaystyle`.
 
-It also offers the **Enable**/**Disable** commands to quickly toggle `\displaystyle` with your custom hotkey via command palette.
+It also offers the **Enable**/**Disable** commands to quickly toggle `\displaystyle` with your custom hotkey or via command palette.
 
 That's it!
 

@@ -5,9 +5,9 @@ After enabling it, you will need re-open notes or reload the app to see the effe
 
 ## Installation
 
-You can find it in Obsidian's community plugins browser.
+Since this plugin is still in beta, it's not on the community plugin browser yet.
 
-Also, you can participate in the beta-testing of the latest version by installing it using BRAT. 
+But you can install the latest beta release using [BRAT](https://github.com/TfTHacker/obsidian42-brat):
 
 1.  Install the [BRAT](obsidian://show-plugin?id=obsidian42-brat) community plugin and enable it.
 2.  Go to **Options**. In the **Beta Plugin List** section, click on the **Add Beta plugin** button.

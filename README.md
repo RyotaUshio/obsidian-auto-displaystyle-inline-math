@@ -11,9 +11,9 @@ Also, you can participate in the beta-testing of the latest version by installin
 
 1.  Install the [BRAT](obsidian://show-plugin?id=obsidian42-brat) community plugin and enable it.
 2.  Go to **Options**. In the **Beta Plugin List** section, click on the **Add Beta plugin** button.
-3.  Copy and paste `https://github.com/RyotaUshio/obsidian-inline-math` in the pop-up prompt and click on **Add Plugin**.
+3.  Copy and paste `RyotaUshio/obsidian-auto-displaystyle-inline-math` in the pop-up prompt and click on **Add Plugin**.
 4.  (Optional) Turn on **Auto-update plugins at startup** at the top of the page.
-5.  Go to **Community plugins > Installed plugins**. You will find "No more flickering inline math" in the list. Click on the toggle button to enable it.
+5.  Go to **Community plugins > Installed plugins**. You will find "Auto-\\displaystyle Inline Math" in the list. Click on the toggle button to enable it.
 
 ## Companion plugins
 

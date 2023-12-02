@@ -1,7 +1,7 @@
 import { MarkdownView, Plugin, loadMathJax } from 'obsidian';
 import { around } from 'monkey-around';
 
-export default class MyPlugin extends Plugin {
+export default class AutoDisplaystyleInlineMathPlugin extends Plugin {
 	uninstaller: (() => void) | null;
 
 	async onload() {

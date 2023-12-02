@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-auto-displaystyle-inline-math",
-	"version": "0.2.1",
+	"version": "0.2.2",
 	"description": "An Obsidian.md plugin to automatically make all inline maths \\displaystyle.",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

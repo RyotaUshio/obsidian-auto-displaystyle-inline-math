@@ -8,9 +8,9 @@ That's it!
 
 ## Installation
 
-Since this plugin is still in beta, it's not on the community plugin browser yet.
+You can find this plugin in the community plugin browser within Obsidian.
 
-But you can install the latest beta release using [BRAT](https://github.com/TfTHacker/obsidian42-brat):
+You can also install the latest beta release using [BRAT](https://github.com/TfTHacker/obsidian42-brat):
 
 1.  Install the [BRAT](obsidian://show-plugin?id=obsidian42-brat) community plugin and enable it.
 2.  Go to **Options**. In the **Beta Plugin List** section, click on the **Add Beta plugin** button.
